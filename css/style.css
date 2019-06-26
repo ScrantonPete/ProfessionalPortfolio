@@ -2,6 +2,17 @@
   height: 350px;
   width: 650px;
 }
+#LinkedIn,
+#resume {
+  background-color: midnightblue;
+}
 #LinkedIn {
-  color: #f4623a;
+  color: white;
+}
+.bg-primary {
+  background-color: lightblue;
+}
+
+.d-block {
+  color: midnightblue;
 }
